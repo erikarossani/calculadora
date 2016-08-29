@@ -9,5 +9,5 @@ Realizar opcones para hacer operaciones basicas de una calculadora (+, -, /,*, %
    - Ingrese un numero
    - Ingrese otro numero
    - Total de la operacion (+, -, /,*, %, < y >)
-4.fin
+4. fin
 ![Diagrama de flujo] (http://i63.tinypic.com/s2a06p.jpg)
